@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "A8番出口",
+  "base_artist": "乃紫",
+  "createdAt": "2026-02-19T00:56:28.742367Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A8番出口",
+      "artist": "乃紫",
+      "has_synced": false,
+      "path": "select/pl_01_A8番出口_乃紫.txt"
+    }
+  ]
+}
